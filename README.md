@@ -1,5 +1,5 @@
-# Data-Compression
-This repository is a compilation of resources for reducing the data size and optimizing python codes.
+# Efficient Pandas
+This repository is a compilation of resources for reducing the data size and optimizing python pandas.
 
 Basics of data compression and storage:
 1. Datatype optimizations - https://www.youtube.com/watch?v=u4_c2LDi4b8
